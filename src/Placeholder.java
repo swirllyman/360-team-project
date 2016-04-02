@@ -3,7 +3,7 @@
  */
 public class Placeholder {
 	public Placeholder(){
-		
+		//Rascal
 	}
 	
 }
