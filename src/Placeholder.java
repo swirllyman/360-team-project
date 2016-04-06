@@ -5,6 +5,7 @@ public class Placeholder {
 	public Placeholder(){
 		//TODO: finish constructor
 		//Rascal
+		//Hello!
 	}
 	
 }
