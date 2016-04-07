@@ -9,12 +9,9 @@ public class Placeholder {
 		//TODO: finish constructor
 		//Rascal
 		//Hello!
-<<<<<<< HEAD
 		
-=======
 		temp = test();
 		System.out.println(temp);
->>>>>>> origin/master
 	}
 	
 	private String test() {
